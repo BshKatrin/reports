@@ -1,5 +1,23 @@
 [
   {
+    "id": "lunarlander-ddpg-td3",
+    "path": "lunarlander-ddpg-td3-2026/report.pdf",
+    "title": "Layer Normalization and Overestimation Bias in DDPG and TD3",
+    "kind": "Reinforcement learning mini-project report",
+    "year": "2026",
+    "description": "Studying layer normalization and Q-value overestimation in DDPG and TD3 on continuous LunarLander.",
+    "category": "Machine learning",
+    "bytes": 1176750,
+    "pages": 5,
+    "sha256": "32522ad420a8fe172ac07878b0e323f470feb4fb40c5b8d8a932f1f9a1ec7471",
+    "source_repository": "BshKatrin/RL-lunarlander-ddpg-td3",
+    "source_path": "beglin_bogush_miniproject1_report.pdf",
+    "source_origin": "User-supplied PDF",
+    "copied_on": "2026-10-12",
+    "linearized": false,
+    "authors": "Paul Béglin, Ekaterina Bogush"
+  },
+  {
     "id": "ood-report",
     "path": "ood-detection-2026/report.pdf",
     "title": "Detecting the unfamiliar",
