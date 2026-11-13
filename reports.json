@@ -1,5 +1,23 @@
 [
   {
+    "id": "tuxkart-dagger-rlpd",
+    "path": "tuxkart-dagger-rlpd-2026/report.pdf",
+    "title": "DAgger vs symmetric sampling in SuperTuxKart",
+    "kind": "Reinforcement learning mini-project report",
+    "year": "2026",
+    "description": "Comparing BC, DAgger, SAC, SAC with symmetric sampling and RLPD on lap performance, generalization and recovery from unusual states.",
+    "category": "Machine learning",
+    "bytes": 956405,
+    "pages": 5,
+    "sha256": "865ebddcf00f9232513917422195624c0d14e845e3c2b7ac0869f3d8bc465a24",
+    "source_repository": "BshKatrin/tuxkart-dagger-rlpd",
+    "source_path": "report.pdf",
+    "source_origin": "User-supplied PDF",
+    "copied_on": "2026-11-14",
+    "linearized": false,
+    "authors": "Paul Béglin, Ekaterina Bogush"
+  },
+  {
     "id": "lunarlander-ddpg-td3",
     "path": "lunarlander-ddpg-td3-2026/report.pdf",
     "title": "Layer Normalization and Overestimation Bias in DDPG and TD3",
